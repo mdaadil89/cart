@@ -1,0 +1,53 @@
+{
+    "items" : [
+    {"id":1,
+ "title":"Brown Brim",
+ "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima,ex.",
+ "price":110,
+ "img":"https://i.ibb.co/ZYW3VTp/brown-brim.png"},
+ 
+     {"id":2,
+ "title":"Brown Cowboy",
+ "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minimaex.",
+ "price":80,
+ "img":" https://i.ibb.co/QdJwgmp/brown-cowboy.png"}
+ ,
+     {"id":3,
+ "title":"Adidas Yeezy",
+  "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima,ex.",
+ "price":120,
+ "img":" https://i.ibb.co/dJbG1cT/yeezy.png"},
+ 
+     {"id":4,
+ "title":"Black Converse",
+ "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minimaex.",
+ "price":250,
+ "img":"https://i.ibb.co/bPmVXyP/black-converse.png"},
+ 
+     {"id":5,
+ "title":"Camo down Vest",
+ "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minima,ex.",
+ "price":"160",
+ "img":"https://i.ibb.co/xJS0T3Y/camo-vest.png"},
+ 
+     {"id":6,
+ "title":"Striped Sweater",
+ "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minima,ex.",
+ "price":90,
+ "img":"https://i.ibb.co/KmSkMbH/striped-sweater.png"},
+
+ {"id":7,
+    "title":"Mens Wear ",
+    "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minima,ex.",
+    "price":90,
+    "img":"https://i.ibb.co/1f2nWMM/wolf-cap.png"},
+
+    {"id":8,
+        "title":"Yellow Track Suit ",
+        "desc":"Lorem ipsumdolor sit amet consectetur adipisicing elit. Minima,ex.",
+        "price":90,
+        "img":"https://i.ibb.co/v1cvwNf/yellow-track-suit.png"}
+        
+     ]
+     
+ }

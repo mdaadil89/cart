@@ -6,9 +6,7 @@ export function loadProductsSuccess(products) {
     return { type : LOAD_PRODUCTS_SUCCESS, products}
 }
 
-export function addProductSuccess(){
-    return {type: ADD_TO_CART}
-}
+
 
 
 export function loadProducts(){

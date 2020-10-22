@@ -20,15 +20,9 @@ const cartReducer= (state = initState,action)=>{
                   }
                 }
         
-
     else
      return {...state}
         
-        
-    
-    
- 
-    
 }
 
 export default cartReducer

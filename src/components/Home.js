@@ -18,7 +18,7 @@ import { addToCart } from './actions/cartActions'
                         <div className="card-image">
                             <img src={item.img} style={{height:"400px"}} alt={item.title}/>
                             
-                            <span to="/" className="btn-floating halfway-fab waves-effect right " >< i onClick={()=>{this.handleClick()}} className="material-icons">add</i></span>
+                            <span to="/" className="btn-floating halfway-fab waves-effect red right " >< i onClick={()=>{this.handleClick()}} className="material-icons">add</i></span>
                             </div>
                         <div className="card-content">
                         <span className="card-title ">{item.title}</span>
@@ -33,7 +33,7 @@ import { addToCart } from './actions/cartActions'
         return(
             <div className="container">
                 <h3 className="center">Our items</h3>
-                <div className="box">
+                <div className="box ">
                     {itemList}
                 </div>
             </div>
@@ -41,7 +41,6 @@ import { addToCart } from './actions/cartActions'
     }
 }
 const mapStateToProps = (state)=>{
-    console.log(state.items)
     return {
       items: state.items
     }

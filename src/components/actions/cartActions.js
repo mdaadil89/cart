@@ -13,7 +13,6 @@ export function loadProducts(){
     return function(dispatch){
         return axios.get("http://localhost:4000/items")
         .then(res => res.data).then(products => {
-            console.log(products)
             dispatch(loadProductsSuccess(products));
         }).catch(error => {
             throw(error);

@@ -12,7 +12,9 @@
     font-weight: 400
 }
 
-
+.collection {
+    display: flex;
+}
 
 
 
